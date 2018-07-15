@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/zhouchw5/zhouchw5.github.i
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\widetilde{x}=e^{-\widetilde{K}}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\widetilde{x}=e^{-\widetilde{K}}$" title="$\widetilde{x}=e^{-\widetilde{K}}$" /></a>
 
-![image](https://github.com/zhouchw5/zhouchw5.github.io/blob/master/table.png)
+![image](https://github.com/zhouchw5/zhouchw5.github.io/blob/master/Chuwei_Zhou.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
