@@ -1,6 +1,11 @@
-﻿# Welcome to Zhou Mr.Chuwei Pages
+# Welcome to Zhou Mr. Chuwei Pages
 
 Life is all about connection and diversity, zero about the better. I'm the pigsney, living in a pigsty and waiting for you, the only missing piece from the next story.
+
+## Guiding Index
+**[My Personal Resume](https://www.zhouchuwei.com/original_zhouchuwei.github.io/.)**
+**[Learning Path in Mathematics and Computing]()**
+**[Interaction with Life and Employment]()**
 
 You can use the [editor on GitHub](https://github.com/zhouchw5/zhouchw5.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
