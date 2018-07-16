@@ -3,7 +3,7 @@
 Life is all about connection and diversity, zero about the better. I'm the pigsney, living in a pigsty and waiting for you, the only missing piece from the next story.
 
 ## Guiding Index
-**[<span style="border-bottom:5px dashed black;">My Personal Resume</span>](https://www.zhouchuwei.com/original_zhouchuwei.github.io/.)**  
+**[<span style="border-bottom:3px dashed black;">My Personal Resume</span>](https://www.zhouchuwei.com/original_zhouchuwei.github.io/.)**  
 
 
 **[Learning Path in Mathematics and Computing]()**  
